@@ -116,4 +116,4 @@ sudo make install
 
 ## Reference
 
-This is my first project from [Udacity C++ Developer Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213).
+This project is the first capstone project in [Udacity C++ Developer Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213).
