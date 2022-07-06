@@ -8,7 +8,7 @@ In this project, I programmed a route planner using A-Star algorithm in C++ and 
 
 For cloning the project run:
 
-  `git clone https://github.com/aeternalis-ingenium/astar-route-planner.git --recurse-submodules`
+  `git clone https://github.com/Aeternalis-Ingenium/AStar-Route-Planner.git --recurse-submodules`
 
 ## Dependencies for Running Locally
 
